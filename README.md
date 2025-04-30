@@ -28,13 +28,13 @@ To run our example script, you are going to need a few libraries as well as Node
 
 `curl https://raw.githubusercontent.com/Decodo/Puppeteer/master/puppeteer.js > puppeteer.js`
 
-<img src="https://i.imgur.com/OcN3CGd.png" alt="curl Decodo puppeteer code sample">
+<img width="862" alt="image" src="https://github.com/user-attachments/assets/0bb98df4-9b5d-433d-8894-48e8c0d3fd0e" />
 
 3. You should see a new file named puppeteer.js in your project folder. Edit it using an editor of your choice.
 
 4. To set up your username, password, and endpoint you would like to use, change the corresponding lines within punctuation marks ('').
 
-<img src="https://i.imgur.com/ist9aUS.png" alt="Decodo puppeteer http proxy configuration using username password authentication">
+<img width="556" alt="image" src="https://github.com/user-attachments/assets/a455e56f-cc44-4ad1-aaaa-8ec0c519c7ca" />
 
 ### Usage
 
@@ -44,7 +44,7 @@ To run this example script, while in your project folder, run the following comm
 
 If you did everything correctly, you should see an IP appearing from our proxy server once the script finishes running.
 
-<img src="https://i.imgur.com/4P0d3sM.png">
+<img width="380" alt="image" src="https://github.com/user-attachments/assets/823a63da-19b0-4846-bc43-9da2d6acd9c2" />
 
 ## Need help?
 
